@@ -1,0 +1,15 @@
+{
+    "appversioncheck": [
+        {
+            "code": 200,
+            "msg": "성공",
+            "data": 
+            {
+               "version": "1.0"
+            }
+        }         
+    ],
+    "profile": {
+      "name": "gakki"
+    }
+  }
