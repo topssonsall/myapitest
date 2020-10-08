@@ -17,7 +17,12 @@
             }
         }           
     ],
-    "profile": {
+    "profile": [
+    {
       "name": "gakki"
-    }
+    },
+    {
+        "name": "gakki"
+      }
+]
   }
