@@ -7,7 +7,15 @@
             {
                "version": "1.0"
             }
-        }         
+        },
+        {
+            "code": 400,
+            "msg": "서버 오류",
+            "data": 
+            {
+               "version": ""
+            }
+        }           
     ],
     "profile": {
       "name": "gakki"
