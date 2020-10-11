@@ -1,37 +1,10 @@
 {
-    "appversioncheck": [
-        {
-            "id":1,
-            "code": 200,
-            "msg": "성공",
-            "data": 
-            {
-               "version": "1.0"
-            }
-        },
-        {
-            "id":2,
-            "code": 400,
-            "msg": "서버 오류",
-            "data": 
-            {
-               "version": ""
-            }
-        }           
-    ],
-    "profile": [
-    {
-        "id":1,
-      "name": "gakki1"
-    },
-    {
-        "id":2,
-        "name": "gakki2"
-      }
-    ],
-   "testresult" : 
-    {
-        "code" : "200",
-        "message" : "정상결과 입니다. gakki"
-    }
+    "checkAppVersion":{
+  "code": 200,
+  "msg": "성공",
+  "data": 
+  {
+     "version": "1.0"
+  }
+}
   }
