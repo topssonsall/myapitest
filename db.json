@@ -32,7 +32,7 @@
 
    "testresult" : 
     {
-        "code" : "200"
+        "code" : "200",
         "message" : "정상결과 입니다. gakki"
     }
   }
