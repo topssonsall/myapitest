@@ -1,10 +1,47 @@
 {
-    "checkAppVersion":{
-  "code": 200,
-  "msg": "성공",
-  "data": 
+  "appversioncheck": [
+      {
+          "id":1,
+          "code": 200,
+          "msg": "성공",
+          "data": 
+          {
+             "version": "1.0"
+          }
+      },
+      {
+          "id":2,
+          "code": 400,
+          "msg": "서버 오류",
+          "data": 
+          {
+             "version": ""
+          }
+      }           
+  ],
+  "profile": [
   {
-     "version": "1.0"
-  }
+      "id":1,
+    "name": "1_각키"
+  },
+  {
+      "id":2,
+      "name": "2_아이유"
+    }
+    ,
+  {
+      "id":3,
+      "name": "3_서현진"
+    }
+    ,
+  {
+      "id":4,
+      "name": "4_한예슬"
+    }
+    ,
+  {
+      "id":5,
+      "name": "5_휘인"
+    }
+]
 }
-  }
